@@ -9,7 +9,7 @@
 Full-Stack Developer with 10+ years of experience in building scalable web applications. Expertise in PHP Laravel,Vue and modern JavaScript frameworks. Background in EMR systems, and data visualization tools.
 
 ## 🛠 Tech Stack
-- **Programing language ** C/C++,VB,VB.net,C#,Java,PHP,Javacript,elixir.
+- **Programing language:** C/C++,VB,VB.net,C#,Java,PHP,Javacript,elixir.
 - **Frontend:** React, Vue.js, Next.js, React Native
 - **Backend:** Node.js,Express.js, PHP , Laravel, Inertia.js , Laravel Livewire
 - **Web server:** Nginx,..
