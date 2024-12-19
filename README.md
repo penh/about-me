@@ -1,4 +1,4 @@
-# HEY THERE , I'M KHUCH PENH
+# Hey there, I'm KHUCH PENH
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=925717&center=true&vCenter=true&width=435&lines=Passionate+Developer;Programer;DevOps+%2CDocker;Terafom+%2C+Ansible+%2C+AWS%2C+DO%2C+...;Tech+Stack+%2C+TALL%2CVILT;Laravel+%2C+MySql+%2C+PostgreSQL+%2C...)](https://git.io/typing-svg)
 
