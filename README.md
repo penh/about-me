@@ -15,7 +15,7 @@ Full-Stack Developer with 10+ years of experience in building scalable web appli
 - **Web server:** Nginx,..
 - **Database** Mysql , Postgres,Sqlite,Sql server , MongoDB (basic)
 - **AI/ML:** OpenAI GPT API, ChatGPT integration, AI Assistants
-- **DevOps:** Linux, Git, CI/CD
+- **DevOps:** Linux, Git, CI/CD,Docker,teraform,AWS,DO,Vercel,Serverless,Deplyer,Envoy,...
 - **Project Management:** Jira, Agile/Scrum
 
 ## 🏆 Key Achievements
